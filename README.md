@@ -25,7 +25,7 @@ variables such as City, State, and Payment Method, and converting data types whe
 
 ## Data Visualization
 
-![](Target_Distribution)
+![](Target_Distribution.jpeg)
 
 
 ## Insights
