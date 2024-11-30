@@ -25,7 +25,18 @@ variables such as City, State, and Payment Method, and converting data types whe
 
 ## Data Visualization
 
-![](Target_Distribution.jpeg)
+## Data Visualization
+
+![Target Distribution](Target_Distribution.jpeg)
+
+![Variables Distribution](Variables_Distribution.jpeg)
+
+![Num Val Boxplot](Num_Val_Boxplot.jpeg)
+
+![Feature Importance](Feature_Importance.jpeg)
+
+![Correlation Plot](Correlation_Plot.jpeg)
+
 
 
 ## Insights
