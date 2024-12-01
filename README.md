@@ -1,4 +1,4 @@
-# Creditworthiness Assessment with Logistic Regression in R
+![Capture2](https://github.com/user-attachments/assets/d5006ae5-6086-4566-a543-37268b43931e)# Creditworthiness Assessment with Logistic Regression in R
 ![loan](loan.jpg)
 
 ## Table of Contents
@@ -21,3 +21,8 @@ The data was cleaned and preprocessed to ensure accuracy and consistency.
 ## Data Visualization
 
 ![Target Distribution](Target_Distribution.jpeg)
+
+![Feature Importance](Feature_Importance.jpeg)
+
+![Num Val](Num_Val.jpeg)
+
