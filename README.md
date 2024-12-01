@@ -1,4 +1,4 @@
-# Credithworthiness Assessment with Logistic Regression in R
+# Creditworthiness Assessment with Logistic Regression in R
 
 ![loan](loan.jpg)
 
