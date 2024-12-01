@@ -20,4 +20,4 @@ The data was cleaned and preprocessed to ensure accuracy and consistency.
 
 ## Data Visualization
 
-![](Target_Distribution.jpeg)
+![Target Distribution](Target_Distribution.jpeg)
