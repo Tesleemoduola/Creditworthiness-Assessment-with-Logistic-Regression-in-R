@@ -1,6 +1,5 @@
 # Creditworthiness Assessment with Logistic Regression in R
 
-![loan](loan.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
