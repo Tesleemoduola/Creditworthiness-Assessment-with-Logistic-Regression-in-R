@@ -21,8 +21,8 @@ The data was cleaned and preprocessed to ensure accuracy and consistency.
 
 ## Data Visualization
 
-![Target Distribution](Target_Distribution.jpeg)
+![](Target_Distribution.jpeg)
 
-![Num Val Boxplot](Num_Val_Boxplot.jpeg)
+![](Num_Val_Boxplot.jpeg)
 
-![Feature Importance](Feature_Importance.jpeg)
+![](Feature_Importance.jpeg)
