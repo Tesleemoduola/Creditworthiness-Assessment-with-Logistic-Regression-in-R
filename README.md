@@ -1,5 +1,5 @@
 # Creditworthiness Assessment with Logistic Regression in R
-
+![loan](loan.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -21,7 +21,3 @@ The data was cleaned and preprocessed to ensure accuracy and consistency.
 ## Data Visualization
 
 ![](Target_Distribution.jpeg)
-
-![](Num_Val_Boxplot.jpeg)
-
-![](Feature_Importance.jpeg)
